@@ -95,12 +95,12 @@ input {
 
 .dots div:nth-child(1){
 
-    background-color: var(--current-color1);
+    background-color: white;
 }
 
 .dots div:nth-child(2){
 
-    background-color: #5B85F9;
+    background-color: #9d48ec;
 }
 
 .dots div:nth-child(3){
